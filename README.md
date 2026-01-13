@@ -98,7 +98,7 @@ python main.py \
 | `--verify_models` | str | "glm4_9b_instruct" | Comma-separated verification models |
 | `--user_input` | str | "" | Text prompt for generation |
 | `--window_size` | int | 10 | Segment max length for SpecFuse |
-| `--max_words` | int | 1500 | Maximum words per query |
+| `--max_words` | int | 2048 | Maximum words per query |
 | `--fast_decoder` | bool | False | Enable fast decoding mode |
 | `--out_stream` | bool | False | Enable output streaming |
 
