@@ -6,19 +6,9 @@ SpecEM is an advanced framework for **ensemble generation** with Large Language 
 ## 🚀 Key Features
 
 ### 🎯 Speculative Decoding
-- **Draft-Verify Architecture**: Use smaller, faster models to draft tokens and larger, more accurate models to verify them
-- **Adaptive Window Sizing**: Configurable segment lengths for optimal performance
-- **Dynamic Model Selection**: Automatically choose the best model for each generation step
-
 ### 🤝 Ensemble Generation
-- **Multi-Model Collaboration**: Leverage diverse models (LLaMA, Mistral, Qwen, GLM, Gemma) for robust generation
-- **Weight-Based Voting**: Intelligent model weight allocation with Hedge algorithm support
-- **Quality Assurance**: Built-in verification mechanisms to ensure output consistency
-
 ### ⚙️ Advanced Configuration
-- **Flexible Model Management**: Support for 10+ state-of-the-art LLMs
-- **Precision Control**: Automatic mixed precision with bfloat16/float16 support
-- **Memory Optimization**: Efficient resource utilization for large model deployment
+
 
 ## 📦 Installation
 
