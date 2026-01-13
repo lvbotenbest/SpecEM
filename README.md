@@ -20,11 +20,6 @@ SpecEM is an advanced framework for **ensemble generation** with Large Language 
 - **Precision Control**: Automatic mixed precision with bfloat16/float16 support
 - **Memory Optimization**: Efficient resource utilization for large model deployment
 
-### 📊 Comprehensive Evaluation
-- **Multi-Metric Assessment**: BLEU, ROUGE, BERTScore evaluation
-- **Multi-Language Support**: English and Chinese text evaluation
-- **Detailed Analytics**: Per-model performance tracking and analysis
-
 ## 📦 Installation
 
 ### Prerequisites
