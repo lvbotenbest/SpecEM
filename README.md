@@ -184,27 +184,6 @@ MODEL_CONFIGS["your_model"] = {
 ```
 
 
-
-## 🐛 Troubleshooting
-
-
-**Slow Performance**
-```bash
-# Enable fast decoder and optimize window size
-python demo.py --fast_decoder True --window_size 8
-```
-
-
-### Development Setup
-
-```bash
-git clone https://github.com/yourusername/SpecEM.git
-cd SpecEM
-pip install -e ".[dev]"
-pre-commit install
-```
-
-
 ## Citation
 
 If you use this code in your research, please cite our paper:
