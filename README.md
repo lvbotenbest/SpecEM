@@ -179,9 +179,12 @@ MODEL_CONFIGS["your_model"] = {
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{lvspecem,
-  title={SpecEM: Training-Free LLM Ensembling via Iterative Drafting, Verification, and Online Feedback},
-  author={Lv, Bo and Liu, Nayu and Tang, Chen and Liu, Xin and Yu, Yue and Luo, Ping},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
+@inproceedings{
+lv2025specem,
+title={Spec{EM}: Training-Free {LLM} Ensembling via Iterative Drafting, Verification, and Online Feedback},
+author={Bo Lv and Nayu Liu and Chen Tang and Xin Liu and Yue Yu and Ping Luo},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=sJd4DpYOis}
 }
 ```
