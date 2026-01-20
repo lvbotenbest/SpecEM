@@ -21,7 +21,7 @@ SpecEM is an advanced framework for **ensemble generation** with Large Language 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SpecEM.git
+   git clone https://github.com/lvbotenbest/SpecEM.git
    cd SpecEM
    ```
 
